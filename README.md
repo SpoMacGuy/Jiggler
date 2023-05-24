@@ -12,3 +12,6 @@ Contains the Omnis Studio 10.22 library
 
 # lib
 Contains the JSON export of the library
+
+# Demo
+Contains a video demo of the window.
