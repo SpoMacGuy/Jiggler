@@ -1,0 +1,12 @@
+On evClick ## Event Parameters - pRow( Itemreference )
+	If low(icPassword)<>'pw'
+		Calculate i as 0
+		Do $cwind.$objs.jiggler.$convergence.$assign(kConvergeOvershoot)
+		Do $cwind.$objs.jiggler.$animdelay.$assign(0)
+		Do $cwind.$objs.jiggler.$numsteps.$assign(10)
+		Calculate inCurrentLeft as $cinst.$objs.pbCheckPassword.$left
+		Do $cwind.$objs.jiggler.$transform('$right') Returns lbOK
+		
+	Else
+		OK message Good job.Now try a bad one.
+	End If

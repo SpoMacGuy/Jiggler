@@ -1,0 +1,33 @@
+{
+	"ident": 1024,
+	"order": 16387,
+	"objtype": "kText",
+	"properties": {
+		"align": "kLeftJst",
+		"backcolor": "RGBA(kColorBackFill,255)",
+		"backpattern": 15,
+		"bordercolor": "RGBA(0,0,0,255)",
+		"designactive": true,
+		"edgefloat": "kEFnone",
+		"effect": "kBorderNone",
+		"fieldstyle": "CtrlLabel",
+		"font": 2,
+		"fontsize": 0,
+		"fontstyle": "kPlain",
+		"forecolor": "RGBA(kColorForeFill,255)",
+		"height": 140,
+		"left": 14,
+		"linestyle": 1,
+		"objlink": 0,
+		"text": {
+			"type": 14,
+			"calc": "This is a fun demonstration of using the Transform XComp.\r\rOn MacOS, when you enter an incorrect login password, the button \"shakes it's head\" to tell you that it was not correct.\r\rHere I do the same thing in Omnis.\r\rScotte Meredith\rspomacguy@gmail.com"
+		},
+		"textcolor": "kColorWindowText",
+		"top": 11,
+		"userinfo": "",
+		"vertcentertext": false,
+		"visible": true,
+		"width": 449
+	}
+}

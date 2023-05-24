@@ -1,0 +1,2 @@
+Do $cwind.$objs.pbCheckPassword.$left.$assign(inCurrentLeft)
+Do $cwind.$objs.pbCheckPassword.$left.$assign(inCurrentLeft-inIncrement)
